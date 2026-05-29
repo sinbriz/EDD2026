@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1773101550 source:c:\ed2026\array_ia\main.cpp
+	<iostream>
+	<stdexcept>
+
