@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1773169172 source:c:\ed2026\prueba_lista\main.cpp
+	<iostream>
+	"listls.hpp"
+

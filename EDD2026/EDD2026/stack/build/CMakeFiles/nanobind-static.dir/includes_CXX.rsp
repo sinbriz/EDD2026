@@ -1,0 +1,1 @@
+-IC:/ED2026/stack -I"C:/Users/brizi/AppData/Local/Python/pythoncore-3.14-64/Lib/site-packages/nanobind/include" -isystem "C:/Users/brizi/AppData/Local/Python/pythoncore-3.14-64/Include" -isystem "C:/Users/brizi/AppData/Local/Python/pythoncore-3.14-64/Lib/site-packages/nanobind/ext/robin_map/include"

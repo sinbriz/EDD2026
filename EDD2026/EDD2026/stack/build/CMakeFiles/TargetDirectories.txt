@@ -1,0 +1,4 @@
+C:/ED2026/stack/build/CMakeFiles/main.dir
+C:/ED2026/stack/build/CMakeFiles/nanobind-static.dir
+C:/ED2026/stack/build/CMakeFiles/edit_cache.dir
+C:/ED2026/stack/build/CMakeFiles/rebuild_cache.dir
