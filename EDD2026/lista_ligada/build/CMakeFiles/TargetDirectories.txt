@@ -1,0 +1,4 @@
+C:/ED2026/lista_ligada/build/CMakeFiles/m_listls.dir
+C:/ED2026/lista_ligada/build/CMakeFiles/nanobind-static.dir
+C:/ED2026/lista_ligada/build/CMakeFiles/edit_cache.dir
+C:/ED2026/lista_ligada/build/CMakeFiles/rebuild_cache.dir
